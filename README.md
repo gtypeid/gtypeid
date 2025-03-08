@@ -15,8 +15,8 @@
 
 ### 슬레이트 & 윈터 [2024.05] [🔗 바로가기](https://github.com/gtypeid/slate-winter)
 - 프론트 뷰 동적 제작 구조 설계. 바닐라 본연의 HTML, CSS, JavaScript로 존재하는 것이 특징. HTML, CSS, JavaScript를 하나로 묶어 위젯이라 부르며 렌더링
-- 스프링의 생명주기를 참고한 Fake Spring java.sun.net.httpserver 모듈을 사용하여, HTTP Server를 제작
-진입 라우팅을 Controller라 부르며 공통 로직을 숨겨 사용자는 비즈니스 로직에 집중하도록 구조화 및 Low Level단의 DB Connection의 반복되는 코드 공통 처리 하여, 쿼리 전환 값 객체 매핑등의 프로세스를 자동화
+- 스프링의 생명주기를 참고한 Fake Spring java.sun.net.httpserver 모듈을 사용하여, HTTP Server를 제작.
+진입 라우팅을 Controller라 부르며, 공통 로직을 숨겨 사용자는 비즈니스 로직에 집중하도록 구조화 및 Low Level단의 DB Connection의 반복되는 코드 공통 처리 하여, 쿼리 전환 값 객체 매핑등의 프로세스를 자동화
 <br>
 
 ### 복셀 [2020.05] [🔗 바로가기](https://github.com/gtypeid/voxel)
