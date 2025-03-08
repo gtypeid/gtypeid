@@ -19,11 +19,11 @@
 진입 라우팅을 Controller라 부르며, 공통 로직을 숨겨 사용자는 비즈니스 로직에 집중하도록 구조화 및 Low Level단의 DB Connection의 반복되는 코드 공통 처리 하여, 쿼리 전환 값 객체 매핑등의 프로세스를 자동화
 <br>
 
-### 복셀 [2020.05] [🔗 바로가기](https://github.com/gtypeid/voxel)
+### 복셀 [2020] [🔗 바로가기](https://github.com/gtypeid/voxel)
 - Three JS 3D라이브러리를 통해 복셀 월드 제작, Height맵을 통해 지형 데이터를 파악하고 지형을 만들며 런타임 중 블럭을 쌓거나 삭제
 <br>
 
-### 웹폴리오 [2020.05] [🔗 바로가기](https://github.com/gtypeid/webfolio)
+### 웹폴리오 [2020] [🔗 바로가기](https://github.com/gtypeid/webfolio)
 - 웹 퍼블리싱 사이트
   - 아이템들을 엑셀 기반 동적으로 제작하거나
   - 웹사이트를 제작하는 에디터
